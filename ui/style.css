@@ -21,3 +21,10 @@ body {
     border-radius: 5px;
 }
 
+#article-one-container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: darkgreen;
+    font-family: sans-serif;
+}
+
