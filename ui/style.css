@@ -21,7 +21,7 @@ body {
     border-radius: 5px;
 }
 
-#article-one-container {
+.main-container {
     max-width: 800px;
     margin: 0 auto;
     color: darkgreen;
