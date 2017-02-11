@@ -26,5 +26,7 @@ body {
     margin: 0 auto;
     color: darkgreen;
     font-family: sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
