@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var articleOne = {
     title: 'Article One | Mariya',
-    heading: 'Article One', 
+    heading: 'Article One Heading', 
     date: 'Feb 12, 2017', 
     content: `<p>
                     This is the content for my first Article. This is the content for my first Article. This is the content for my first Article. This is the content for my first Article. This is the content for my first Article. This is the content for my first Article.
