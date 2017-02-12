@@ -39,11 +39,11 @@ function createTemplate(data) {
                 </div>
                 <div>
                     ${heading}
-                    </br>
+                    <br>
                 </div>
                 <div>
                     ${date}
-                    </br>
+                    <br>
                 </div>
                 <div>
                     ${content}
